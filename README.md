@@ -235,4 +235,4 @@ This repository serves as the official landing page for Microsoft Security Essen
 **Get the most recent version of Microsoft Security Essentials today!**
 
 ---
-**Last updated:** 2026-10-16 17:14:53 UTC
+**Last updated:** 2026-10-16 20:46:14 UTC
